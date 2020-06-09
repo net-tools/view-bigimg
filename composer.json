@@ -1,0 +1,25 @@
+{
+    "name" : "net-tools/view-bigimg",
+	
+    "description" : "Composer library view-bigimg",
+	
+	"type": "library",
+	
+	"require" : {
+	},
+	
+    "license" : "MIT",
+
+    "authors": [
+        {
+            "name": "Pierre",
+            "email": "dev@nettools.ovh",
+            "role": "Developer"
+        },
+		{
+			"name":"https://github.com/newming/view-bigimg",
+			"role":"Developer"
+		}
+    ]
+
+}
